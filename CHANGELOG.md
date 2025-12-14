@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.10.0](https://github.com/adaptive-enforcement-lab/readability/compare/v1.9.0...v1.10.0) (2025-12-14)
+
+
+### Features
+
+* add unified container SBOM with Trivy attestation ([#140](https://github.com/adaptive-enforcement-lab/readability/issues/140)) ([e7617b1](https://github.com/adaptive-enforcement-lab/readability/commit/e7617b162d2c2cde80a9c7e964598c5fe631661a))
+
+
+### Maintenance
+
+* **deps:** update docker/login-action digest to 5e57cd1 ([#137](https://github.com/adaptive-enforcement-lab/readability/issues/137)) ([8a00393](https://github.com/adaptive-enforcement-lab/readability/commit/8a003937b31114f2b29fb83f3cb4aae8f5e5425d))
+
 ## [1.9.0](https://github.com/adaptive-enforcement-lab/readability/compare/v1.8.1...v1.9.0) (2025-12-14)
 
 
